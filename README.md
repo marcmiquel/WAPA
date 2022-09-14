@@ -27,4 +27,4 @@ _This database contains the basic metrics and statistics (e.g., selection, avera
 For more information:
 
 - [**Methodology**](https://meta.wikimedia.org/wiki/Wikipedia_Administrative_Pages_Analytics/Methodology)
-- [**Technical documentation**](https://meta.wikimedia.org/wiki/Wikipedia_Administrative_Pages_Analytics/Technical_documentation)
+- [**Technical documentation**](https://meta.wikimedia.org/wiki/Wikipedia_Administrative_Pages_Analytics/Technical_Documentation)
